@@ -155,13 +155,13 @@ lucratividade.
 
 <br>
 
-### **Projeto:** <a name = "ferramenta_projeto"></a>
+### **Projeto:** <a name = "ferramentas_projeto"></a>
 
 - Azure boards É uma ferramenta da Microsoft, que tem recursos que ajudam em nosso processo,
   permitindo o planejamento, armazenamento e gerenciamento dos requisitos dos usuários. Utilizaremos
   essa ferramenta como nosso backlog.
 
-### **Desenvolvimento:** <a name = "ferramenta_desenvolvimento"></a>
+### **Desenvolvimento:** <a name = "ferramentas_desenvolvimento"></a>
 
 - Git O Git permite o controle de versões e controlar também o código-fonte. Vai permitir que nossos
   desenvolvedores trabalhem de forma simultânea em melhorias ou manutenções e tendo como vantagem o
@@ -170,13 +170,13 @@ lucratividade.
 - Jenkins O Jenkins permite a integração contínua do código desenvolvido, pode auxiliar na
   automatização dos processos de compilação , da fase de testes e da implantação.
 
-### **Testes:** <a name = "ferramenta_testes"></a>
+### **Testes:** <a name = "ferramentas_testes"></a>
 
 - JMeter Para testar o desempenho do software ou de melhorias feitas em um módulo do sistema, por
   exemplo , por meio de testes de stress do sistema. Ela permite também testar servidores , teste de
   redes e etc.
 
-### **Manutenção e evolução:** <a name = "ferramenta_manutencao"></a>
+### **Manutenção e evolução:** <a name = "ferramentas_manutencao"></a>
 
 - Nagios É uma ferramenta de monitoramento , que permite tanto monitoramento de rede, quanto o de
   banco de dados , disponibilidade de servidores. Pode fornecer relatórios para notificar possíveis
