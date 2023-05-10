@@ -65,6 +65,8 @@ O proposto pela nossa equipe para solucionar este problema está descrito no arq
 "[RESULTADO.md](RESULTADO.md)" e a representação gráfica de todo o processo está no
 "[BPMN 2.0.pdf](BPMN-2.0.pdf)".
 
+Recomendado que baixe o PDF, ele renderiza conforme o zoom.
+
 <br>
 <br>
 
