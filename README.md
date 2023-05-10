@@ -64,3 +64,12 @@ de desenvolvimento e testes de software.
 O proposto pela nossa equipe para solucionar este problema está descrito no arquivo
 "[RESULTADO.md](RESULTADO.md)" e a representação gráfica de todo o processo está no
 "[BPMN 2.0.pdf](BPMN-2.0.pdf)"
+
+<br>
+<br>
+
+## 🔒 Licença
+
+Esse projeto está sob a licença MIT.
+
+<hr>
